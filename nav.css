@@ -1,0 +1,16 @@
+.acceuil{
+    background-color: azure;
+    padding: 15px 10px;
+    color: darkgrey;
+    border-radius: 5% ;
+}
+ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+nav{
+    width: 600px;
+    padding-top: 30px;
+    margin: auto;
+}
